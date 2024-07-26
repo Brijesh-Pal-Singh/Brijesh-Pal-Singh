@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brijesh-Pal-Singh
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning webdevelopment.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on unique and rising projects.
 - 📫 How to reach me - brijeshpalsingh2002@gmail.com
 
